@@ -1,6 +1,6 @@
 # 🚦GUI-Based-Network-Packet-Sniffer
 A lightweight, real-time traffic monitoring tool built with Python, Scapy, and Tkinter — designed for beginners, educators, and cybersecurity learners.
-## 📚 About the Project
+# 📚 About the Project
 🔍 This project is a **Python-powered GUI tool** that captures and inspects live network packets with real-time visual feedback, offering a lightweight alternative to complex sniffers like **Wireshark**. It solves the problem of inaccessible and overly technical packet sniffers by providing an intuitive interface where users can select interfaces, apply simple protocol filters **(TCP/UDP/ICMP)**, and monitor traffic flow in real time.
 <br> <br>
 ⚙️ Built with **Scapy** for raw packet capture and Tkinter for a **dynamic user interface**, it uses **multithreading** to ensure a smooth, responsive experience even during high traffic.
@@ -8,7 +8,7 @@ A lightweight, real-time traffic monitoring tool built with Python, Scapy, and T
 <br><br>
 🌐 This open-source solution makes network monitoring more accessible, educational, and efficient in academic, home lab, or entry-level cybersecurity environments. 
 
-## ✨ Features
+# ✨ Features
 - **🖥️ Live Packet Capture with Real-Time GUI** <br>
 Capture and inspect network packets live using Scapy, presented through a responsive and scrollable Tkinter interface.
 <br> <br>
@@ -42,7 +42,7 @@ Ideal for students and learners exploring network protocols, offering an approac
 - **🧩 Modular & Extensible Codebase** <br>
 Easily expandable to include future features like machine learning-based anomaly detection, log exporting, or remote sniffing.
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 | Category                | Technology Used                                |
 |-------------------------|-----------------------------------------------|
@@ -55,7 +55,7 @@ Easily expandable to include future features like machine learning-based anomaly
 | 💻 **OS Compatibility**     | `Windows`, `Linux` |
 | 🧪 **Future Additions**      | `Scikit-learn`, `CICIDS2017`, `UNSW-NB15` |
 
-# 📁 Project Structure
+# 📁 Project structure
 
 ```bash
 GUI-Network-Packet-Sniffer/
@@ -69,7 +69,8 @@ GUI-Network-Packet-Sniffer/
 │   ├── 📜 requirements.txt          # Python dependencies
 │   ├── 📘 poster                    
 │   └── 🖼️ screenshots/             # Application screenshots
-```
+|
 ├── 🚀 run.py                        # Main entry point
 ├── 📜 LICENSE
 └── 📖 README.md                     # Project documentation
+```
