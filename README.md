@@ -33,11 +33,11 @@ Supports both Windows and Linux, with built-in elevation detection and prompts f
 - **🔐 Privacy-First Architecture** <br>
 No disk logging — all packets are processed in memory only, ensuring confidentiality and safe use in ethical or personal settings.
 <br><br>
-- **🌐 Interface Discovery with IP Visibility**
+- **🌐 Interface Discovery with IP Visibility** <br>
 Lists all active network interfaces using psutil, displaying associated IPs for intuitive and accurate interface selection.
 <br><br>
-- **🎓 Designed for Cybersecurity Education**
+- **🎓 Designed for Cybersecurity Education** <br>
 Ideal for students and learners exploring network protocols, offering an approachable GUI-based alternative to tools like Wireshark.
 <br><br>
-- **🧩 Modular & Extensible Codebase**
+- **🧩 Modular & Extensible Codebase** <br>
 Easily expandable to include future features like machine learning-based anomaly detection, log exporting, or remote sniffing.
