@@ -9,36 +9,35 @@ A lightweight, real-time traffic monitoring tool built with Python, Scapy, and T
 🌐 This open-source solution makes network monitoring more accessible, educational, and efficient in academic, home lab, or entry-level cybersecurity environments. 
 
 ## ✨ Features
-**🖥️ Live Packet Capture with Real-Time GUI**
-<br>
-- Capture and inspect network packets live using Scapy, presented through a responsive and scrollable Tkinter interface.
+**🖥️ Live Packet Capture with Real-Time GUI** <br>
+Capture and inspect network packets live using Scapy, presented through a responsive and scrollable Tkinter interface.
 <br> <br>
 **🎛️ User-Friendly Interface with Protocol Filters** <br>
-- Select active network interfaces and apply custom protocol filters (tcp, udp, icmp) directly from the GUI dropdown and input field.
+Select active network interfaces and apply custom protocol filters (tcp, udp, icmp) directly from the GUI dropdown and input field.
 <br><br>
 **📊 Dynamic Traffic Mode Detection** <br>
-- Automatically classifies traffic into Low 🟢, Medium 🟠, and High 🔴 modes using real-time packet rate analysis (PPS counter).
+Automatically classifies traffic into Low 🟢, Medium 🟠, and High 🔴 modes using real-time packet rate analysis (PPS counter).
 <br><br>
 **🚨 Automatic High-Traffic Alerts** <br>
-- Triggers warning popups when traffic exceeds 50 packets/sec, helping identify spikes, DoS attempts, or suspicious network behavior.
+Triggers warning popups when traffic exceeds 50 packets/sec, helping identify spikes, DoS attempts, or suspicious network behavior.
 <br><br>
 **🔄 Multithreaded Architecture** <br>
-- Separate threads for sniffing and rate monitoring keep the GUI responsive under heavy traffic, enabling smooth real-time updates.
+Separate threads for sniffing and rate monitoring keep the GUI responsive under heavy traffic, enabling smooth real-time updates.
 <br><br>
 **📋 Structured Real-Time Packet Display** <br>
-- Captured data is shown in a live-updating TreeView with columns for Source IP, Destination IP, Protocol, and Info, with auto-scroll support.
+Captured data is shown in a live-updating TreeView with columns for Source IP, Destination IP, Protocol, and Info, with auto-scroll support.
 <br><br>
 **🖧 Cross-Platform Compatibility & Admin Check** <br>
-- Supports both Windows and Linux, with built-in elevation detection and prompts for administrator/root access as required.
+Supports both Windows and Linux, with built-in elevation detection and prompts for administrator/root access as required.
 <br><br>
 **🔐 Privacy-First Architecture** <br>
-- No disk logging — all packets are processed in memory only, ensuring confidentiality and safe use in ethical or personal settings.
+No disk logging — all packets are processed in memory only, ensuring confidentiality and safe use in ethical or personal settings.
 <br><br>
 **🌐 Interface Discovery with IP Visibility**
-- Lists all active network interfaces using psutil, displaying associated IPs for intuitive and accurate interface selection.
+Lists all active network interfaces using psutil, displaying associated IPs for intuitive and accurate interface selection.
 <br><br>
 **🎓 Designed for Cybersecurity Education**
-- Ideal for students and learners exploring network protocols, offering an approachable GUI-based alternative to tools like Wireshark.
+Ideal for students and learners exploring network protocols, offering an approachable GUI-based alternative to tools like Wireshark.
 <br><br>
 **🧩 Modular & Extensible Codebase**
 - Easily expandable to include future features like machine learning-based anomaly detection, log exporting, or remote sniffing.
