@@ -54,3 +54,22 @@ Easily expandable to include future features like machine learning-based anomaly
 | ⚙️ **System Utilities**      | `ctypes`, `os`, `sys` |
 | 💻 **OS Compatibility**     | `Windows`, `Linux` |
 | 🧪 **Future Additions**      | `Scikit-learn`, `CICIDS2017`, `UNSW-NB15` |
+
+# 📁 Project Structure
+
+```bash
+GUI-Network-Packet-Sniffer/
+│
+├── 📂 src/
+│   ├── 🐍 packet_sniffer.py          # Main application logic
+│   ├── 🖼️ gui_interface.py          # Tkinter GUI implementation
+│   └── 🔧 utils.py                  # Helper functions (admin checks, etc.)
+│
+├── 📂 docs/
+│   ├── 📜 requirements.txt          # Python dependencies
+│   ├── 📘 poster                    
+│   └── 🖼️ screenshots/             # Application screenshots
+```
+├── 🚀 run.py                        # Main entry point
+├── 📜 LICENSE
+└── 📖 README.md                     # Project documentation
