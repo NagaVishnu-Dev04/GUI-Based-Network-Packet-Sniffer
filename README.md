@@ -41,3 +41,16 @@ Ideal for students and learners exploring network protocols, offering an approac
 <br><br>
 - **🧩 Modular & Extensible Codebase** <br>
 Easily expandable to include future features like machine learning-based anomaly detection, log exporting, or remote sniffing.
+
+## 🛠️ Technology Stack
+
+| Category                | Technology Used                                |
+|-------------------------|-----------------------------------------------|
+| 🧑‍💻 **Programming Language** | `Python 3.x` |
+| 🎨 **GUI Framework**         | `Tkinter` |
+| 📦 **Packet Sniffing**       | `Scapy` |
+| 🔎 **Interface Discovery**   | `psutil`, `socket`, `platform`, `subprocess` |
+| 🔀 **Multithreading**        | `threading`, `queue` |
+| ⚙️ **System Utilities**      | `ctypes`, `os`, `sys` |
+| 💻 **OS Compatibility**     | `Windows`, `Linux` |
+| 🧪 **Future Additions**      | `Scikit-learn`, `CICIDS2017`, `UNSW-NB15` |
