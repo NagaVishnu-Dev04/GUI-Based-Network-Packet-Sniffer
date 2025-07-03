@@ -76,3 +76,8 @@ GUI-Network-Packet-Sniffer/
 ```
 
 # 🚀 Quick Start
+### Prerequisites
+- Python 3.7+
+- Administrator/root privileges
+- Git (optional)
+
