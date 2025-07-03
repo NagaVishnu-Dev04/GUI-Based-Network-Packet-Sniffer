@@ -81,3 +81,25 @@ GUI-Network-Packet-Sniffer/
 - Administrator/root privileges
 - Git (optional)
 
+# ⚙️ Installation
+## 📥 Clone the Repository
+```bash
+git clone https://github.com/NagaVishnu-Dev04/network-packet-sniffer.git
+cd network-packet-sniffer
+```
+## 📦 Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+*Requirements*
+- Python 3.7+
+- Administrator/root privileges (for packet capture)
+## 🚀 Run the Application
+```bash
+# Windows (Run as Administrator):
+python packet_sniffer.py
+
+# Linux (with root privileges):
+sudo python packet_sniffer.py
+```
+
