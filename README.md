@@ -103,3 +103,42 @@ python packet_sniffer.py
 sudo python packet_sniffer.py
 ```
 
+# ▶️ Usage
+🚀 **Follow these steps to run and use the GUI-Based Network Packet Sniffer:**
+
+### 🧩 Prerequisites
+- Python 3.x installed ✅
+- Run the following command to install dependencies:
+  ```bash
+  pip install scapy psutil
+  ```
+### 🛠️ Launch the Sniffer
+1.**Run the Python script with administrator privileges:**
+- On Windows, it auto-prompts for admin mode.
+- On Linux, use:
+  ```bash
+  sudo python your_script_name.py
+  ```
+2.**GUI will open automatically. Follow these steps:** 
+- 🔄 Click Refresh to load available network interfaces.
+
+- 📡 Select a network interface from the dropdown.
+
+- 🧪 Enter a protocol filter like tcp, udp, or icmp (optional).
+
+- ▶️ Click Start Sniffing to begin real-time capture.
+
+- 🧠 Monitor Source IP, Destination IP, Protocol, and Info live.
+
+- 🔕 To stop sniffing, click Stop Sniffing.
+
+3 **⚠️ Real-Time Alerts**
+- The sniffer detects traffic levels:
+
+   - 🟢 Low (< 20 packets/sec)
+
+   - 🟠 Medium (21–50 packets/sec)
+
+   - 🔴 High (> 50 packets/sec)
+
+   - 🚨 A warning popup appears when High Traffic is detected!
