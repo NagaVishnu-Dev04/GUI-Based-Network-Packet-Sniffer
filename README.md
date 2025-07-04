@@ -160,6 +160,4 @@ Here's a preview of the GUI:
 
 [![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&style=flat-square)](mailto:nagavishnupothana@gmail.com)
 
----
-
 _Made with ❤️ by NagaVishnu-Dev04(https://github.com/NagaVishnu-Dev04)_
