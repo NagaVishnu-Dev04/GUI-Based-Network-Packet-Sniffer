@@ -143,4 +143,7 @@ sudo python packet_sniffer.py
 
    - 🚨 A warning popup appears when High Traffic is detected!
 # 🖼️ Screenshots
-![Screenshot-1] (GUI-Network-Packet-Sniffer/doc/screenshot_1.png)
+
+Here's a preview of the GUI:
+
+![Screenshot 1](GUI-Network-Packet-Sniffer/doc/screenshot_1.png)
