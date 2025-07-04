@@ -151,3 +151,15 @@ Here's a preview of the GUI:
  Here is a Project Architecture :
  
  ![Project_Architecture](GUI-Network-Packet-Sniffer/doc/project_architecture_screenshot.jpg)
+
+ # 📬 Contact and Connect with Me
+
+**Name**: NagaVishnu-Dev04
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pothana-naga-vishnu-5b337a27b)
+
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&style=flat-square)](mailto:nagavishnupothana@gmail.com)
+
+---
+
+_Made with ❤️ by NagaVishnu-Dev04(https://github.com/NagaVishnu-Dev04)_
