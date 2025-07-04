@@ -147,7 +147,7 @@ sudo python packet_sniffer.py
 Here's a preview of the GUI:
 
 ![Screenshot 1](GUI-Network-Packet-Sniffer/doc/screenshot_1.png)
-<br>
+<br><br>
  Here is a Project Architecture :
  
  ![Project_Architecture](GUI-Network-Packet-Sniffer/doc/project_architecture_screenshot.jpg)
