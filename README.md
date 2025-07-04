@@ -142,3 +142,4 @@ sudo python packet_sniffer.py
    - 🔴 High (> 50 packets/sec)
 
    - 🚨 A warning popup appears when High Traffic is detected!
+# 🖼️ Screenshots
